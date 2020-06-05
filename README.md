@@ -1,2 +1,2 @@
-# Squares
-These are two squares with algorithms and arguements......
+# p5.play-boilerplate
+Boiler plate for p5.play
